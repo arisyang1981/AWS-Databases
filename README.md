@@ -1,6 +1,17 @@
 # AWS-Databases
 
-On 11/03/2022, started to learn databases in DWS. \
+On 11/03/2022, started to learn databases in AWS. \
+
+# Database type:
+RDBMS vs NoSQL(K-V vs Document vs Graph vs Timeseris vs Ledger) \ 
+OLTP vs OLAP \
+Horizontal vs Vertical 
+
+# How to choose the database solution
+Business requirement \
+Pain point of the current solution
+
+
 # AWS RDS
 https://docs.aws.amazon.com/rds/index.html?nc2=h_ql_doc_rds
 
