@@ -3,7 +3,7 @@
 On 11/03/2022, started to learn databases in AWS. \
 
 # Database type:
-RDBMS vs NoSQL(K-V vs Document vs Graph vs Timeseris vs Ledger) \ 
+RDBMS vs NoSQL(K-V vs Document vs Graph vs Timeseris vs Ledger) \
 OLTP vs OLAP \
 Horizontal vs Vertical 
 
