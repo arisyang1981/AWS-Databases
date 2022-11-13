@@ -4,7 +4,7 @@ AWS database solutions introduction. \
 https://aws.amazon.com/products/databases/learn/#Getting_started_tutorials \
 https://learn.acloud.guru/course/aws-certified-database-speciality-dbs-c01/learn/c02c893d-a560-48b4-bf2d-1c8c4971e680/f0150fdd-4f07-47f9-9452-1a4a9e6a3d3a/watch
 # Database type:
-RDBMS vs NoSQL(K-V vs Document vs Graph vs Timeseries vs Ledger) \
+RDBMS vs NoSQL(K-V vs Document vs Graph vs Timeseries vs In-memory vs Ledger) \
 OLTP vs OLAP \
 Horizontal vs Vertical 
 
