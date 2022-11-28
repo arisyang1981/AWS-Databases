@@ -22,6 +22,8 @@ https://github.com/arisyang1981/AWS-RDS
 https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Storage.html#USER_PIOPS 
 Bigger size, higher IOPS
 
+# AWS DynamoDB
+
 
 # Cloud DBA vs on-prem DBA
 1. Cloud DBA cares budget.
