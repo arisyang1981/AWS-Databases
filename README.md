@@ -24,6 +24,8 @@ Bigger size, higher IOPS
 
 # AWS DynamoDB
 
+# AWS Redshift
+
 
 # Cloud DBA vs on-prem DBA
 1. Cloud DBA cares budget.
