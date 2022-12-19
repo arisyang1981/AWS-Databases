@@ -11,11 +11,11 @@ Horizontal vs Vertical
 # How to choose the database solution
 Business requirement \
 Pain point of the current solution \
-What developers are familiar with?
-Business type?
-Data type? Structured data, Semi-structured data, un-structured data?
-ACID?
-High scability?
+What developers are familiar with? \
+Business type? \
+Data type? Structured data, Semi-structured data, un-structured data? \
+ACID? \
+High scability? \
 
 
 
