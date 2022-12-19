@@ -10,7 +10,8 @@ Horizontal vs Vertical
 
 # How to choose the database solution
 Business requirement \
-Pain point of the current solution
+Pain point of the current solution \
+What developers are familiar with?
 
 
 # AWS RDS
@@ -29,3 +30,15 @@ Bigger size, higher IOPS
 
 # Cloud DBA vs on-prem DBA
 1. Cloud DBA cares budget.
+
+
+# 2022-12-19, the second time of AWS Database Specialty
+https://learn.acloud.guru/course/aws-certified-database-speciality-dbs-c01/learn/8494f4d2-913b-4a2b-ad9f-06edece3164f/e66d4dfc-4fe5-4e8b-af1d-80c791ffe55b/watch \
+5 exam domains: \
+  Workload Database design \
+  Deployment and Migration \
+  Management and Operation \
+  Monitoring and Troubleshooting \
+  Database Security \
+  
+  
