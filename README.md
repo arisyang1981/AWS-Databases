@@ -8,16 +8,6 @@ RDBMS vs NoSQL(K-V vs Document vs Graph vs Timeseries vs In-memory vs Ledger) \
 OLTP vs OLAP \
 Horizontal vs Vertical 
 
-# How to choose the database solution
-Business requirement \
-Pain point of the current solution \
-What developers are familiar with? \
-Business type? \
-Data type? Structured data, Semi-structured data, un-structured data? \
-ACID? \
-High scability? \
-
-
 
 # AWS RDS
 https://github.com/arisyang1981/AWS-RDS
@@ -44,6 +34,16 @@ https://learn.acloud.guru/course/aws-certified-database-speciality-dbs-c01/learn
   Deployment and Migration \
   Management and Operation \
   Monitoring and Troubleshooting \
-  Database Security \
+  Database Security 
   
+# How to choose the database solution
+Business pattern: Gaming(K-V)? Shoping (K-V)?  
+Pain point of the current solution \
+What developers are familiar with? \
+Data type? Structured data, Semi-structured data, un-structured data? \
+ACID? \
+High scability? \
+OLTP vs OLAP
+
+
   
